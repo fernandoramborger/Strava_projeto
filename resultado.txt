@@ -1,0 +1,7 @@
+Distância total: 5.0267 km
+Tempo total decorrido: 0:54:34
+Velocidade maxima: 51.08 km/h
+Ganho de elevação: 4911.38 m
+Perda de elevação: -4433.96 m
+Maior altitude: 2532.52 m
+Menor altitude: 385.53 m
